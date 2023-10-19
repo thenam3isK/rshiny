@@ -6,3 +6,5 @@ The first table shows the maximum, minimum and average temperatures of all the s
 The second table shows the Latitude and Longitude of the stations.
 The app also has a map of Nepal on the bottom where markers are pinned to show the location of the stations. When you click the markers, it shows the name of the station. 
 The map also shows a single location when you select a station from the second table. But only one station can be selected.
+
+https://diyali-karina.shinyapps.io/Temp_Nepal_2013-2017/
