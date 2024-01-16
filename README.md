@@ -8,3 +8,5 @@ The app also has a map of Nepal on the bottom where markers are pinned to show t
 The map also shows a single location when you select a station from the second table. But only one station can be selected.
 
 https://diyali-karina.shinyapps.io/Temp_Nepal_2013-2017/
+
+The data was taken from : https://opendatanepal.com/dataset/annual-minimum-maximum-and-average-temperature-by-stations-year-2013-to-2017
